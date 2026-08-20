@@ -7,7 +7,7 @@ the next release.
 # Hark (Omarchy plugin)
 
 Packaged Omarchy plugin build of [Hark](https://github.com/konradk/hark),
-released as v0.1.7 from commit `41c365d5f9f2c1edde088c73f62db0f090b31b65`.
+released as v0.1.8 from commit `3f0cad03f904c2048a6411f82abe9bb69e4c5870`.
 
 ```bash
 omarchy plugin add https://github.com/konradk/hark-plugin.git --enable
